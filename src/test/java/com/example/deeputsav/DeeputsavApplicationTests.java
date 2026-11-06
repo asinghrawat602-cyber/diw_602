@@ -1,0 +1,13 @@
+package com.example.deeputsav;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DeeputsavApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
